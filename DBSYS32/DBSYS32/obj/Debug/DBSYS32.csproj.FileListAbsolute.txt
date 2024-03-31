@@ -1,0 +1,15 @@
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\bin\Debug\DBSYS32.exe.config
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\bin\Debug\DBSYS32.exe
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\bin\Debug\DBSYS32.pdb
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.csproj.AssemblyReference.cache
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Login.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Properties.Resources.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.csproj.GenerateResource.cache
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.csproj.CoreCompileInputs.cache
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.exe
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.pdb
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Register.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Menu.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Store.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Stock.resources
+D:\Users\Gelo\source\repos\DBSYS32\DBSYS32\obj\Debug\DBSYS32.Sales.resources
